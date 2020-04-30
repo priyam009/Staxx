@@ -2,7 +2,7 @@
 
 ## Overview
 
-* Staxx is a web application that allows its users to categorically track their expenses over a chosen peroid of time.
+* Staxx is a web application that allows its users to categorically add and track their expenses over a chosen period of time.
 
 * After the user has created an account they are then presented with a pop-up modal that allows them to select the chosen time period of either a week or a month and enter the amount of money they would like to allot for that chosen time period.
 
